@@ -1,0 +1,25 @@
+{
+  "__version__": "1.0.6",
+  "general": {
+    "designResolution": {
+      "width": 720,
+      "height": 1280,
+      "fitWidth": true,
+      "fitHeight": true
+    },
+    "highQuality": true
+  },
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "COLLISIONMAP"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 1,
+      "1": 2
+    }
+  },
+  "custom_joint_texture_layouts": []
+}

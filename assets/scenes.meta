@@ -1,0 +1,24 @@
+{
+  "ver": "1.2.0",
+  "importer": "directory",
+  "imported": true,
+  "uuid": "ce80168c-2c75-4304-9ce6-fb7f90bc1449",
+  "files": [],
+  "subMetas": {},
+  "userData": {
+    "bundleName": "scenes",
+    "bundleFilterConfig": [
+      {
+        "range": "include",
+        "type": "url",
+        "patchOption": {
+          "patchType": "glob",
+          "value": "db://assets/scenes/**/*"
+        },
+        "assets": [
+          ""
+        ]
+      }
+    ]
+  }
+}
